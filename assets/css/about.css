@@ -38,7 +38,6 @@ body {
 }
 
 a {
-  color: white;
   text-decoration: none;
 }
 
@@ -1459,7 +1458,9 @@ section {
   justify-content: center;
   align-items: center;
 }
-
+.black{
+  color:black;
+}
 .hero-text{
   color: white; 
   text-align: center;
